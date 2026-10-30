@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "call_id": "2026-10-26_riya-mehta",
+    "call_title": "Discovery - Riya Mehta, Mehta Organics",
+    "call_date": "2026-10-26",
+    "duration_min": 32,
+    "transcript_file": "transcripts/2026-10-26_riya-mehta.txt"
+  },
+  "client": {
+    "name": "Riya Mehta",
+    "business": "Mehta Organics",
+    "business_type": "Sells cold-pressed oils online",
+    "scale": "about 400 orders a month",
+    "team": ["Riya Mehta", "Arjun (part-time)"],
+    "location": "[CONFIRM] - not stated on the call",
+    "email": "",
+    "private_contact": "[PRIVATE CONTACT DETAIL WITHHELD]"
+  },
+  "executive_summary": "Riya runs Mehta Organics, selling cold-pressed oils online at about 400 orders a month, with one part-time team member (Arjun). Her evenings go on replying to WhatsApp customers and chasing late wholesale payments; three wholesale shops currently owe around ₹1.8 lakh in total. In three months she wants her evenings back, automatic payment reminders, and a clear view of which wholesale customers are worth keeping. She indicated a tentative budget of ₹25-30 thousand a month, pending a conversation with her husband, who handles the finances. Her main concern is automation talking to her customers directly, after a chatbot sent wrong prices last year. Next: the consultant sends a short plan by Monday, and a 45-minute workflow mapping session is proposed for Thursday afternoon next week (time not yet booked).",
+  "goals": [
+    {"text": "Get her evenings back", "status": "confirmed", "evidence": "Evenings back."},
+    {"text": "Payment reminders going out automatically", "status": "confirmed", "evidence": "Payment reminders going out automatically."},
+    {"text": "Know which wholesale customers are worth keeping", "status": "confirmed", "evidence": "knowing which wholesale customers are worth keeping"},
+    {"text": "Timeframe: success is judged at three months", "status": "confirmed", "evidence": "What would success look like in three months?"}
+  ],
+  "pain_points": [
+    {"text": "Spends her evenings replying to customers on WhatsApp", "status": "confirmed", "evidence": "I spend my evenings replying to WhatsApp customers"},
+    {"text": "Spends her evenings chasing payments", "status": "confirmed", "evidence": "and chasing payments"},
+    {"text": "Wholesale buyers pay late", "status": "confirmed", "evidence": "Wholesale buyers pay late."},
+    {"text": "Very small team: Riya and one part-timer (Arjun)", "status": "confirmed", "evidence": "My team is me and one part-timer, Arjun."}
+  ],
+  "business_context": [
+    {"text": "Sells cold-pressed oils online", "status": "confirmed", "evidence": "We sell cold-pressed oils online"},
+    {"text": "Volume: about 400 orders a month", "status": "confirmed", "evidence": "about 400 orders a month"},
+    {"text": "Receivables: three wholesale shops owe around ₹1.8 lakh in total", "status": "confirmed", "evidence": "three shops owe us around 1.8 lakh in total"},
+    {"text": "One of them, Green Basket (Pune), is 60 days overdue - internal only", "status": "confirmed", "evidence": "Green Basket in Pune, is 60 days overdue"}
+  ],
+  "budget": {
+    "range": "₹25-30 thousand per month (indicative)",
+    "status": "Tentative - not approved. Riya needs to talk to her husband first.",
+    "decision_maker": "Riya's husband, who handles the finances (name [CONFIRM])",
+    "notes": "Not a confirmed engagement. Do not present this figure as agreed.",
+    "evidence": "I could do 25 to 30 thousand a month, but I need to talk to my husband first - he handles the finances."
+  },
+  "objections": [
+    {"text": "Tried a chatbot last year that sent wrong prices to customers", "status": "confirmed", "evidence": "I tried a chatbot last year and it sent wrong prices to customers."},
+    {"text": "Nervous about automation talking to her customers directly", "status": "confirmed", "evidence": "I'm nervous about automation talking to my customers directly."}
+  ],
+  "next_steps": [
+    {"action": "Send Riya a short plan", "owner": "Consultant", "deadline": "By Monday - assumed Mon 2 Nov 2026 [CONFIRM]", "status": "Committed - not started", "evidence": "Send me the plan by Monday."},
+    {"action": "45-minute workflow mapping session", "owner": "Consultant to send booking link; Riya to pick a slot", "deadline": "Next week, Thursday afternoon - assumed Thu 5 Nov 2026, time [CONFIRM]", "status": "Proposed - day agreed, time not booked", "evidence": "we'll do a 45-minute workflow mapping session next week"},
+    {"action": "Discuss the budget with her husband", "owner": "Riya", "deadline": "[CONFIRM] - no date given", "status": "Pending (client side)", "evidence": "I need to talk to my husband first"}
+  ],
+  "derived_dates": [
+    {"value": "Plan due: Mon 2 Nov 2026 [CONFIRM]", "basis": "Call was on Monday 26 Oct 2026; 'by Monday' read as the following Monday."},
+    {"value": "Mapping session: Thu 5 Nov 2026, afternoon, exact time not set [CONFIRM]", "basis": "'next week' + 'Thursday afternoon is fine' on a call held Monday 26 Oct 2026."}
+  ],
+  "pending_confirmations": [
+    "[CONFIRM CLIENT EMAIL ADDRESS] - not given on the call; the Gmail draft has no recipient.",
+    "Plan deadline - 'by Monday' assumed to be Mon 2 Nov 2026 [CONFIRM]",
+    "Mapping session - Thursday afternoon next week (assumed Thu 5 Nov 2026); exact time not set [CONFIRM]",
+    "Cal.com booking link - replace [CAL.COM BOOKING LINK] in the email",
+    "Your name / signature - replace [YOUR NAME] in the email",
+    "Budget - ₹25-30 thousand a month is tentative until Riya has spoken to her husband [CONFIRM]",
+    "Receivables - names of the other two shops and the amount per shop (only the ~₹1.8 lakh total was stated) [CONFIRM]",
+    "Business location, sales channels and Arjun's role/hours - not discussed [CONFIRM]"
+  ],
+  "privacy_notes": [
+    "A private contact detail was shared for urgent use only. It is deliberately not stored in this document [PRIVATE CONTACT DETAIL WITHHELD] and must not be shared with Riya's team or added to any shared contact list.",
+    "Some remarks on the call were made off the record and are deliberately not recorded here. Do not add them later.",
+    "Wholesale receivable details (shop names, amounts) are internal information: keep them out of client-facing messages and do not share them outside this engagement.",
+    "The budget is tentative: do not present it as agreed in emails or proposals.",
+    "Client preference: nothing automated should reach her customers without her approval first."
+  ],
+  "redactions": [
+    {
+      "cue_quote": "don't put that in writing anywhere",
+      "handling": "Riya's guess about a wholesale buyer's finances is left out of every output. Only the stated fact (60 days overdue) is kept, in the internal doc only.",
+      "must_not_appear": ["financial trouble", "in trouble", "think they're"]
+    },
+    {
+      "cue_quote": "please don't share it with Arjun",
+      "handling": "Personal phone number replaced with [PRIVATE CONTACT DETAIL WITHHELD]; not stored in the client doc, which Arjun could later see.",
+      "must_not_appear": ["98XXX", "12345", "personal number"]
+    }
+  ],
+  "email": {
+    "to": "",
+    "subject": "Thanks, Riya - next steps on getting your evenings back",
+    "body": "[REVIEW BEFORE SENDING - delete this block]\n- Recipient left blank on purpose: [CONFIRM CLIENT EMAIL ADDRESS]\n- Replace [CAL.COM BOOKING LINK] with your 45-minute Cal.com event link\n- Replace [YOUR NAME]\n- Check you can have the plan ready by Monday\n[END OF REVIEW BLOCK]\n\nHi Riya,\n\nThanks again for making time for our discovery call. It was really helpful to hear how things are running at Mehta Organics.\n\nHere's what I took away. With around 400 orders a month and a team of you and Arjun, your evenings are going on two things: replying to customers on WhatsApp and chasing wholesale buyers who pay late. Over the next three months, you'd like to:\n\n- get your evenings back\n- have payment reminders go out automatically\n- know clearly which wholesale customers are worth keeping\n\nI also heard your concern about the chatbot that sent wrong prices to your customers last year, and it's a fair one. So I'd suggest we start with workflows where nothing reaches a customer until you've reviewed and approved it. We'd only give the automation more freedom once you've seen it working reliably and you're comfortable with it.\n\nAs promised, I'll send you a short plan by Monday. After that, let's do the 45-minute workflow mapping session next week. You mentioned Thursday afternoon suits you, so please pick a time that works for you here: [CAL.COM BOOKING LINK]\n\nThere's no rush on the commercial side. I know you'd like to discuss it internally first, and I'm happy to answer any questions that come up.\n\nLooking forward to it.\n\nBest regards,\n[YOUR NAME]"
+  },
+  "whatsapp": "Hi Riya, thanks again for our call! I'll send the short plan by Monday as promised. For our 45-min workflow mapping session next week, you mentioned Thursday afternoon works - grab a slot here: [CAL.COM BOOKING LINK] Speak soon!"
+}

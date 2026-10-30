@@ -1,0 +1,35 @@
+{
+  "run_at": "2026-10-30T17:07:47",
+  "steps": [
+    {
+      "step": "Validation",
+      "status": "OK",
+      "detail": "17/17 safety checks passed"
+    },
+    {
+      "step": "Local files: summary, doc, email, WhatsApp",
+      "status": "OK",
+      "detail": "output\\2026-10-26_riya-mehta (WhatsApp 228/300 chars)"
+    },
+    {
+      "step": "Google sign-in",
+      "status": "OK",
+      "detail": ""
+    },
+    {
+      "step": "Drive: create client doc",
+      "status": "OK",
+      "detail": "Client - Riya Mehta - 2026-10-26 -> https://docs.google.com/document/d/1BdRi9Fhk8dA2OC41w6mKSPGAN2v9Mxo6S0VdUVhFFEs/edit?usp=drivesdk"
+    },
+    {
+      "step": "Gmail: create DRAFT (not sent)",
+      "status": "OK",
+      "detail": "id r1809516433842660367, labels ['DRAFT'], recipient blank - [CONFIRM CLIENT EMAIL ADDRESS]"
+    },
+    {
+      "step": "WhatsApp reminder",
+      "status": "MANUAL",
+      "detail": "text only, 228 chars - copy from whatsapp.txt into AiSensy after approval"
+    }
+  ]
+}

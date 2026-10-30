@@ -1,0 +1,8 @@
+# Google login files - never commit
+credentials.json
+token.json
+client_secret*.json
+# Local run memory
+output/state.json
+__pycache__/
+.pytest_cache/

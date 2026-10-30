@@ -1,0 +1,30 @@
+To: (blank - [CONFIRM CLIENT EMAIL ADDRESS])
+Subject: Thanks, Riya - next steps on getting your evenings back
+
+[REVIEW BEFORE SENDING - delete this block]
+- Recipient left blank on purpose: [CONFIRM CLIENT EMAIL ADDRESS]
+- Replace [CAL.COM BOOKING LINK] with your 45-minute Cal.com event link
+- Replace [YOUR NAME]
+- Check you can have the plan ready by Monday
+[END OF REVIEW BLOCK]
+
+Hi Riya,
+
+Thanks again for making time for our discovery call. It was really helpful to hear how things are running at Mehta Organics.
+
+Here's what I took away. With around 400 orders a month and a team of you and Arjun, your evenings are going on two things: replying to customers on WhatsApp and chasing wholesale buyers who pay late. Over the next three months, you'd like to:
+
+- get your evenings back
+- have payment reminders go out automatically
+- know clearly which wholesale customers are worth keeping
+
+I also heard your concern about the chatbot that sent wrong prices to your customers last year, and it's a fair one. So I'd suggest we start with workflows where nothing reaches a customer until you've reviewed and approved it. We'd only give the automation more freedom once you've seen it working reliably and you're comfortable with it.
+
+As promised, I'll send you a short plan by Monday. After that, let's do the 45-minute workflow mapping session next week. You mentioned Thursday afternoon suits you, so please pick a time that works for you here: [CAL.COM BOOKING LINK]
+
+There's no rush on the commercial side. I know you'd like to discuss it internally first, and I'm happy to answer any questions that come up.
+
+Looking forward to it.
+
+Best regards,
+[YOUR NAME]
